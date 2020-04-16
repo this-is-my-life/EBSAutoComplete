@@ -1,9 +1,6 @@
 # EBSAutoComplete
 ## Script By TriNet / PMH#7086
 
-### 필독
-- 그냥 그거 언급하지 말라고 하시네요
-
 ### 지원 범위
 EBS 중학, EBSi
 
